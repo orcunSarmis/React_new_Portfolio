@@ -8,6 +8,24 @@ npm i @emailjs/browser
 
 npm install @fortawesome/free-brands-svg-icons --save
 
+npm install @fortawesome/free-solid-svg-icons --save
+
+npm i @fortawesome/react-fontawesome
+
+npm i animate.css
+
+npm i gsap-trial
+
+npm i loaders.css
+
+npm i react-leaflet
+
+npm i react-loaders
+
+npm i react-router-dom
+
+npm i sass
+
 ## Available Scripts
 
 In the project directory, you can run:
