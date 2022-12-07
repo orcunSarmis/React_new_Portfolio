@@ -6,6 +6,8 @@ npm packages:
 
 npm i @emailjs/browser
 
+npm install @fortawesome/free-brands-svg-icons --save
+
 ## Available Scripts
 
 In the project directory, you can run:
